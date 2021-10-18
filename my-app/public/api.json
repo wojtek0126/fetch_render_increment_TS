@@ -1,0 +1,14 @@
+{
+    "user": [{
+        "email": "qaz@ee.pl"
+    }],
+    "accounts": [{
+            "id": 1,
+            "balance": 300
+        },
+        {
+            "id": 2,
+            "balance": 600
+        }
+    ]
+}
