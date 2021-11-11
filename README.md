@@ -34,3 +34,10 @@ interface UserDetailsViewProps {
  * increment button have to add to counter to given account, no request needed.
 
 Final go should not take more than 60 min.
+
+Result: a fail, althought in this particular case it was expected, no excuses. 
+Here is the feedback - what I need to improve: 
+Remove all duplicates from code - deduplication;
+Breaking into smaller components;
+Using custom hooks;
+Getting to know react-query for RESTful API.
